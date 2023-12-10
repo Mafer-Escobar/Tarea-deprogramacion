@@ -1,0 +1,62 @@
+.pinkTitle {
+    color:rgb(255, 0, 149);
+}
+
+#seccion1 {
+    background-color: aquamarine;
+}
+
+.pinkTitle{
+    color:brown
+}
+
+#seccion1 {
+    background-color:rgb(245, 220, 220);
+}
+
+.text-xl{
+    color:rgb(228, 192, 72)
+}
+
+#seccion2 {
+    background-color:rgb(245, 220, 220);
+}
+
+.text-xl{
+    color:rgb(155, 42, 165)
+}
+
+#seccion2{
+    background-color: rgb(214, 198, 228);
+}
+
+
+h1{
+    text-align:center;
+    padding: 1cap;
+}
+h2{
+    text-align:center;
+    padding: 1cap;
+}
+
+p{
+    text-align: center;
+    padding: 1cap;
+}
+
+div{
+    width:1000px;
+    margin:auto;
+    border: 1px solid white;
+}
+
+img{
+    text-align:center;
+    padding: 1cap;
+}
+
+.text-5xl{
+    color:rgb(197, 75, 130);
+}
+
